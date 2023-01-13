@@ -1,5 +1,10 @@
 # Dognition_SQL
 
+I analyzed Dognition’s subscriber trends, classified their characteristics and identified potential reasons affecting Dognition’s retention rates. 
+
+There are six tables and none of them have a properly-defined primary key.
+
+
 ## Table of Tasks
 * [Data Cleaning and Relational Schema](#Data_Cleaning_and_Relational_Schema)
 * [Identifying Potential Data Issues](#Identifying_Potential_Data_Issues )
